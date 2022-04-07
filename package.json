@@ -1,0 +1,7 @@
+{
+  "name": "browser-tab-volume-control",
+  "private": true,
+  "volta": {
+    "node": "16.14.2"
+  }
+}
